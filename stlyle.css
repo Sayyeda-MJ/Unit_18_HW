@@ -1,0 +1,10 @@
+
+.flexcontainer{
+    display: flex;
+    width: 50%;
+    height: auto;
+    padding: 1.5%;
+    margin: 1.5%;
+    flex-direction: column;
+
+}
